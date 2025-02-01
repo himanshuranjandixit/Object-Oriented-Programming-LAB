@@ -2,7 +2,7 @@
 This repository contains all the assignments completed as part of the Object-Oriented Programming (OOPS) Lab. The assignments cover various OOP concepts such as classes, inheritance, polymorphism, encapsulation, file handling, and more.
 
 # **Assignment 1 - OOPS Lab (Class & Objects)**  
-this contain two files [question_1.cpp](https://github.com/himanshuranjandixit/Object-Oriented-Programming-LAB/blob/main/question_1.cpp) and other is [question_2.cpp] (https://github.com/himanshuranjandixit/Object-Oriented-Programming-LAB/blob/main/question_2.cpp) 
+this contain two files [question_1.cpp](https://github.com/himanshuranjandixit/Object-Oriented-Programming-LAB/blob/main/question_1.cpp) and other is [question_2.cpp](https://github.com/himanshuranjandixit/Object-Oriented-Programming-LAB/blob/main/question_2.cpp) 
 
 # **📂 Contents:**  
 
